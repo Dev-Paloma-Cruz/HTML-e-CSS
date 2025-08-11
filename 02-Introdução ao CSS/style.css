@@ -11,6 +11,11 @@ h1 {
   font-size: 20px;
 }
 
+p span {
+  font-size: 32px;
+  color: blue;
+}
+
 #primeiro-parágrafo,
 #segundo-parágrafo,
 #terceiro-parágrafo {
@@ -23,8 +28,15 @@ h1 {
 }
 
 .parágrafo-bloco-4 {
-  font: size: 24px;
+  font-size: 24px;
 }
 
 .parágrafo-bloco-5 {
-font-size: 28px; color: red;}
+  font-size: 28px;
+  color: red;
+}
+
+p .span-textinho {
+  font-size: 32px;
+  color: blue;
+}
