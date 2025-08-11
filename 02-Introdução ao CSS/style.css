@@ -1,6 +1,30 @@
+/* Tags, IDs e Classes */
+
 p {
-  font-size: 10px;
+  font-size: 16px;
 }
 h1 {
   color: orange;
 }
+/* Ids são únicos */
+#quarto-parágrafo {
+  font-size: 20px;
+}
+
+#primeiro-parágrafo,
+#segundo-parágrafo,
+#terceiro-parágrafo {
+  font-size: 24px;
+}
+
+/* Classe */
+.parágrafo {
+  font-size: 24px;
+}
+
+.parágrafo-bloco-4 {
+  font: size: 24px;
+}
+
+.parágrafo-bloco-5 {
+font-size: 28px; color: red;}
