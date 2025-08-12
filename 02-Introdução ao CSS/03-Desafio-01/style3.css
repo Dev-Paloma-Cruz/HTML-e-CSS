@@ -46,18 +46,9 @@ li {
   font-style: italic;
 }
 
-.realce {
-  color: #0588c4;
-}
-
-.realce2 {
-  color: #0588c4;
-}
-
-.realce3 {
-  color: #0588c4;
-}
-
+.realce,
+.realce2,
+.realce3,
 .realce4,
 .realce5 {
   color: #0588c4;
