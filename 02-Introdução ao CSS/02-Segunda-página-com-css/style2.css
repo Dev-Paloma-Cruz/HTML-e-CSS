@@ -5,6 +5,15 @@ p {
   font-family: "Roboto", sans-serif;
 }
 
+a {
+  font-style: italic;
+  text-decoration: dotted;
+  text-decoration-line: underline;
+  text-decoration-color: green;
+  color: blueviolet;
+  font-weight: 700;
+}
+
 h1 {
   font-size: 64px;
   line-height: 0.7;
