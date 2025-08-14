@@ -175,3 +175,13 @@ strong {
 .como-ajudar-paragrafo b {
   font-weight: 600;
 }
+
+/* Seção Minicurso */
+
+.minicurso-h2 {
+  font-size: 27.6;
+  font-weight: 400;
+}
+.minicurso-realce {
+  font-weight: 600;
+}
