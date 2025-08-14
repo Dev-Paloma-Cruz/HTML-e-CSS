@@ -146,3 +146,32 @@ strong {
 .parágrafo-blog {
   font-size: 17px;
 }
+
+/* Seção Como ajudar */
+
+.como-ajudar-h2 {
+  font-size: 27.6;
+  font-weight: 400;
+}
+
+.como-ajudar-span {
+  font-weight: 600;
+}
+
+.como-ajudar-lista {
+  font-size: 19px;
+}
+
+.como-ajudar-lista a,
+.como-ajudar-parágrafo a {
+  color: #008ff7;
+  font-weight: 600;
+}
+
+.como-ajudar-parágrafo {
+  font-size: 19px;
+}
+
+.como-ajudar-paragrafo b {
+  font-weight: 600;
+}
