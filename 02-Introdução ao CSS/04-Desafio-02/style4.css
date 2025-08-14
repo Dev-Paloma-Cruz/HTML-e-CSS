@@ -185,3 +185,24 @@ strong {
 .minicurso-realce {
   font-weight: 600;
 }
+
+/* Rodapé */
+
+.rodapé-título {
+  font-weight: 600;
+  font-size: 22px;
+}
+
+.rodapé-subtítulo {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.rodapé-subtítulo-2 {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.rodapé-link {
+  color: #1a77a4;
+}
